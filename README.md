@@ -1,6 +1,8 @@
 # Airbnb
 Airbnb Clone
 
+   click link to visit site - [Link](https://airbnb-deploy-1.onrender.com/listings)
+   
 Project Overview
 
 The Airbnb Clone is a fully functional web application designed to replicate the core features of the Airbnb platform. Built using Node.js, EJS, JavaScript, HTML, and CSS, this project showcases a dynamic, responsive, and user-friendly interface for property listings and bookings. The platform allows users to browse available properties, view details, and simulate booking processes, providing a seamless experience similar to the original Airbnb service.
